@@ -1,0 +1,12 @@
+D:\My Data\Visual Studio Projects\UPSMon\obj\Debug\ResolveAssemblyReference.cache
+D:\My Data\Visual Studio Projects\UPSMon\obj\Debug\UPSMon.COMForm.resources
+D:\My Data\Visual Studio Projects\UPSMon\obj\Debug\UPSMon.MainForm.resources
+D:\My Data\Visual Studio Projects\UPSMon\obj\Debug\UPSMon.Properties.Resources.resources
+D:\My Data\Visual Studio Projects\UPSMon\obj\Debug\UPSMon.ShutdownForm.resources
+D:\My Data\Visual Studio Projects\UPSMon\obj\Debug\UPSMon.csproj.GenerateResource.Cache
+D:\My Data\Visual Studio Projects\UPSMon\bin\Debug\UPSMon.exe
+D:\My Data\Visual Studio Projects\UPSMon\bin\Debug\UPSMon.pdb
+D:\My Data\Visual Studio Projects\UPSMon\obj\Debug\UPSMon.exe
+D:\My Data\Visual Studio Projects\UPSMon\obj\Debug\UPSMon.pdb
+D:\Visual Studio Projects\UPSMon\obj\Debug\UPSMon.exe
+D:\Visual Studio Projects\UPSMon\obj\Debug\UPSMon.pdb

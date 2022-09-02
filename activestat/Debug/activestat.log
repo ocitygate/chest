@@ -1,0 +1,3 @@
+﻿  activestat.cpp
+D:\activestat\activestat.cpp(928,18): warning C4244: 'initializing': conversion from 'double' to 'ULONG', possible loss of data
+  activestat.vcxproj -> D:\firewall\Debug\activestat.exe

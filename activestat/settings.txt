@@ -1,0 +1,4 @@
+SHOW_LOOPBACK	0	#Show Loopback Activity
+TIMEOUT		5	#Connect Timeout
+TCP_TIMEOUT	300	#TCP Inactivity Timeout
+UDP_TIMEOUT	10	#UDP Inactivity Timeout
