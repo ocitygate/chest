@@ -1,0 +1,15 @@
+C:\Users\Administrator\Dropbox\Visual Studio Projects\CS\bin\Release\CS.dll
+C:\Users\Administrator\Dropbox\Visual Studio Projects\CS\bin\Release\CS.pdb
+C:\Users\Administrator\Dropbox\Visual Studio Projects\CS\obj\Release\CS.Windows.Forms.TextBoxNum.resources
+C:\Users\Administrator\Dropbox\Visual Studio Projects\CS\obj\Release\CS.csproj.GenerateResource.Cache
+C:\Users\Administrator\Dropbox\Visual Studio Projects\CS\obj\Release\CS.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Dropbox\Visual Studio Projects\CS\obj\Release\CS.dll
+C:\Users\Administrator\Dropbox\Visual Studio Projects\CS\obj\Release\CS.pdb
+C:\Users\Matthew\Documents\Visual Studio 2017\Projects\CS\bin\Release\CS.dll
+C:\Users\Matthew\Documents\Visual Studio 2017\Projects\CS\bin\Release\CS.pdb
+C:\Users\Matthew\Documents\Visual Studio 2017\Projects\CS\obj\Release\CS.csprojAssemblyReference.cache
+C:\Users\Matthew\Documents\Visual Studio 2017\Projects\CS\obj\Release\CS.Windows.Forms.TextBoxNum.resources
+C:\Users\Matthew\Documents\Visual Studio 2017\Projects\CS\obj\Release\CS.csproj.GenerateResource.cache
+C:\Users\Matthew\Documents\Visual Studio 2017\Projects\CS\obj\Release\CS.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\Documents\Visual Studio 2017\Projects\CS\obj\Release\CS.dll
+C:\Users\Matthew\Documents\Visual Studio 2017\Projects\CS\obj\Release\CS.pdb

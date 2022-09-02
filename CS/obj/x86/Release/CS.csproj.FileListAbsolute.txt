@@ -1,0 +1,8 @@
+C:\Users\Administrator\Dropbox\Visual Studio Projects\CS\bin\x86\Release\CS.dll
+C:\Users\Administrator\Dropbox\Visual Studio Projects\CS\bin\x86\Release\CS.pdb
+C:\Users\Administrator\Dropbox\Visual Studio Projects\CS\obj\x86\Release\CS.Windows.Forms.TextBoxNum.resources
+C:\Users\Administrator\Dropbox\Visual Studio Projects\CS\obj\x86\Release\CS.csproj.GenerateResource.Cache
+C:\Users\Administrator\Dropbox\Visual Studio Projects\CS\obj\x86\Release\CS.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Dropbox\Visual Studio Projects\CS\obj\x86\Release\CS.dll
+C:\Users\Administrator\Dropbox\Visual Studio Projects\CS\obj\x86\Release\CS.pdb
+C:\Users\Administrator\Dropbox\Visual Studio Projects\CS\obj\x86\Release\CS.csprojResolveAssemblyReference.cache
