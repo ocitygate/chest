@@ -1,0 +1,10 @@
+C:\Users\Matthew\Desktop\JoyJoyFileServer\bin\Debug\JoyJoyFileServer.exe
+C:\Users\Matthew\Desktop\JoyJoyFileServer\bin\Debug\JoyJoyFileServer.pdb
+C:\Users\Matthew\Desktop\JoyJoyFileServer\obj\Debug\JoyJoyFileServer.csprojAssemblyReference.cache
+C:\Users\Matthew\Desktop\JoyJoyFileServer\obj\Debug\JoyJoyFileServer.InstallFileSelect.resources
+C:\Users\Matthew\Desktop\JoyJoyFileServer\obj\Debug\JoyJoyFileServer.MainForm.resources
+C:\Users\Matthew\Desktop\JoyJoyFileServer\obj\Debug\JoyJoyFileServer.Properties.Resources.resources
+C:\Users\Matthew\Desktop\JoyJoyFileServer\obj\Debug\JoyJoyFileServer.csproj.GenerateResource.cache
+C:\Users\Matthew\Desktop\JoyJoyFileServer\obj\Debug\JoyJoyFileServer.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\Desktop\JoyJoyFileServer\obj\Debug\JoyJoyFileServer.exe
+C:\Users\Matthew\Desktop\JoyJoyFileServer\obj\Debug\JoyJoyFileServer.pdb
