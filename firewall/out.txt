@@ -1,0 +1,12 @@
+#PROTO	LOCAL_IP	L_PORT	REMOTE_IP	R_PORT	PROCESS		ACTION
+#==================================================================================
+UDP	*		68	*		67	*		ACCEPT		#DHCP
+*	*		*	8.8.8.8		*	*		ACCEPT		#Google DNS
+*	*		*	8.8.4.4		*	*		ACCEPT		#Google DNS
+TCP	*		*	*		80	putty.exe	ACCEPT		#MS Edge
+TCP	*		*	*		443	putty.exe	ACCEPT		#MS Edge
+TCP	*		*	*		22	putty.exe	ACCEPT		#PuTTY SSH
+TCP	*		*	*		23	putty.exe	ACCEPT		#PuTTY Telnet
+TCP	*		*	*		22	WinSCP.exe	ACCEPT		#WinSCP SFTP
+TCP	*		*	*		3389	mstsc.exe	ACCEPT		#RDP
+*	*		*	*		*	*		REJECT		#REJECT ALL
